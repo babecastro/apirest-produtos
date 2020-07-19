@@ -35,7 +35,7 @@ public class SwaggerConfig {
             "1.0",
             "Terms of Service",
             new Contact("Barbara Ellen", "https://instagram.com/barbaaraellen", "barbaraellen@outlook.com.br"),
-            "Apacha License Version 2.0",
+            "Apache License Version 2.0",
             "https://www.apache.org/licensen.html", new ArrayList<VendorExtension>()
         );
         return apiInfo;
